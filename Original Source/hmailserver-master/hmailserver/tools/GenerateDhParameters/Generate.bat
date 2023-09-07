@@ -1,1 +1,0 @@
-openssl dhparam -out ../../installation/Extras/dh2048.pem -2 2048
